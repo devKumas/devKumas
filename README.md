@@ -5,7 +5,7 @@
 # It's Me 🐻
 
 <div align="right">
-  <a href='https://blog.kumas.dev/' target='_blank' >
+  <a href='https://kumas.dev/' target='_blank' >
     <img src="https://img.shields.io/badge/Blog-ff5722?style=for-the-badge&logo=Blogger&logoColor=white&link=https://blog.kumas.dev/"/>
   </a>
   <a href='mailto:dev@kumas.dev' target='_blank'>
