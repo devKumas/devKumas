@@ -1,5 +1,7 @@
 <div align="right">
-  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kuma2301"/>
+  <a href='https://solved.ac/profile/kuma2301' target='_blank'>
+    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kuma2301"/>
+  </a>
 <!--   <img src="https://komarev.com/ghpvc/?username=HwanSu-K&label=PROFILE+VIEWS&color=ff6565"/> -->
 </div> 
 
