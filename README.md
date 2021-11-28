@@ -1,5 +1,6 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=HwanSu-K&label=PROFILE+VIEWS&color=ff6565"/>
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kuma2301"/>
+<!--   <img src="https://komarev.com/ghpvc/?username=HwanSu-K&label=PROFILE+VIEWS&color=ff6565"/> -->
 </div> 
 
 # It's Me 🐻
