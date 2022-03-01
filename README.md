@@ -8,7 +8,7 @@
 
 ![Typescript](https://img.shields.io/badge/Typescript-%2320232a.svg?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/Javascript-%2320232a.svg?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/node.js-%2320232a.svg?style=flat-square&logo=node.js&logoColor=339933)
+![Node.js](https://img.shields.io/badge/Node.js-%2320232a.svg?style=flat-square&logo=node.js&logoColor=339933)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-%2320232a.svg?style=flat-square&logo=express&logoColor=EBEBEB)
 ![NestJS](https://img.shields.io/badge/NestJS-%2320232a.svg?style=flat-square&logo=nestjs&logoColor=E0234E)
 ![Socket.io](https://img.shields.io/badge/Socket.io-%2320232a?style=flat-square&logo=socket.io&logoColor=EBEBEB)
